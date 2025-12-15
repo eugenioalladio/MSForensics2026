@@ -104,10 +104,6 @@ Gli abstract dovranno essere inviati tramite il [modulo online](https://docs.goo
 | **Lingua** | Italiano o Inglese |
 
 ::: {.text-center}
-[Invia il tuo abstract](#){.btn .btn-primary .btn-lg}
-:::
-
-::: {.text-center}
 [📄 Scarica il template dell'abstract](MS_Forensics_2026_abstract_template.docx){.btn .btn-primary .btn-lg download="MS_Forensics_2026_abstract_template.docx"}
 :::
 

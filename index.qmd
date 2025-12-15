@@ -9,8 +9,8 @@ toc: false
 ::: {.save-the-date}
 ## 📅 Save the Date
 
-**17-18 Marzo 2026** — Roma, Italia  
-**Sala Palatucci** — Polo Tuscolano  
+**17-18 Marzo 2026** - Roma, Italia  
+**Sala Palatucci** - Polo Tuscolano  
 Via Tuscolana 1548, Roma  
 *Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*  
 Ministero dell'Interno - Dipartimento di Pubblica Sicurezza
