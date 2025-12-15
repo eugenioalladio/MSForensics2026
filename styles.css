@@ -43,19 +43,32 @@
 /* ---------- Logo in Title Banner ---------- */
 .quarto-title-banner {
   position: relative;
+  padding-left: 220px !important;
 }
 
 .quarto-title-banner::before {
   content: "";
   position: absolute;
-  top: 70%;
-  left: 70px;
+  top: 50%;
+  left: 40px;
   transform: translateY(-50%);
-  width: 200px;
-  height: 200px;
+  width: 160px;
+  height: 160px;
   background-image: url("images/logo_transparent2.png");
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Responsive - hide logo on small screens */
+@media (max-width: 768px) {
+  .quarto-title-banner {
+    padding-left: 1rem !important;
+  }
+  
+  .quarto-title-banner::before {
+    display: none;
+  }
 }
 
 /* ---------- Navbar ---------- */
