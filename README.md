@@ -51,6 +51,4 @@ Per informazioni: [info.msforensics2026@gmail.com](mailto:info.msforensics2026@g
 
 ---
 
-## 📄 Licenza
-
 © 2025-2026 MS Forensics. Tutti i diritti riservati.

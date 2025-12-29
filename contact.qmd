@@ -9,35 +9,48 @@ toc: true
 
 Per domande generali sul workshop:
 
-::: {.callout-note appearance="minimal" icon="false"}
-📧 **Email**: [info.msforensics2026\@gmail.com](mailto:info.msforensics2026@gmail.com)
+::: {.callout-note appearance="minimal" icon=false}
+📧 **Email**: [info.msforensics2026@gmail.com](mailto:info.msforensics2026@gmail.com)
 
 Rispondiamo entro 2-3 giorni lavorativi.
 :::
 
-------------------------------------------------------------------------
+---
 
 ## 👥 Comitato Organizzatore
 
-::::: grid
+::: {.grid}
+
 ::: {.g-col-12 .g-col-md-6}
 ### Responsabile Scientifico
 
-**Prof. Manuel Sergi**\
-Sapienza Università di Roma\
-📧 [manuel.sergi\@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
+**Prof. Manuel Sergi**  
+Sapienza Università di Roma  
+📧 [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### Comitato Locale
 
-**Dr. Nome Cognome**\
-Servizio Polizia Scientifica\
-📧 [email\@poliziadistato.it](mailto:email@poliziadistato.it)
+**Dr.ssa Giulia Napoli**  
+Servizio Polizia Scientifica  
+📧 [giulia.napoli@poliziadistato.it](mailto:giulia.napoli@poliziadistato.it)
 :::
-:::::
 
-------------------------------------------------------------------------
+:::
+
+---
+
+## 📋 Contatti Specifici
+
+| Argomento | Contatto |
+|:----------|:---------|
+| Informazioni generali | [info.msforensics2026@gmail.com](mailto:info.msforensics2026@gmail.com) |
+| Programma scientifico & abstract | [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it) |
+| Iscrizioni & pagamenti | [info.msforensics2026@gmail.com](mailto:info.msforensics2026@gmail.com) |
+| Lettere invito per visto | [info.msforensics2026@gmail.com](mailto:info.msforensics2026@gmail.com) |
+
+---
 
 ## 🏛️ Enti Organizzatori
 
@@ -56,11 +69,19 @@ Servizio Polizia Scientifica\
 ::: {.g-col-12 .g-col-md-6}
 **Polizia di Stato**
 
-[Servizio Polizia Scientifica - Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica](https://www.poliziadistato.it/articolo/40766685ed4beab2126065878) 
+Servizio Polizia Scientifica - Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica
 
 🌐 [www.poliziadistato.it](https://www.poliziadistato.it/)
 :::
 
 :::
 
-------------------------------------------------------------------------
+---
+
+## 📢 Seguici
+
+Rimani aggiornato sulle novità del workshop:
+
+::: {.text-center}
+🌐 [msforensics2026.com](https://msforensics2026.com)
+:::

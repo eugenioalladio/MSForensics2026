@@ -9,33 +9,33 @@ toc: true
 
 Il workshop si terrà presso:
 
-::: {.callout-note appearance="minimal" icon="false"}
-**Sala Palatucci** — Polo Tuscolano\
-Via Tuscolana 1548, 00173 Roma\
-*Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*\
+::: {.callout-note appearance="minimal" icon=false}
+**Sala Palatucci** — Polo Tuscolano  
+Via Tuscolana 1548, 00173 Roma  
+*Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*  
 Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
 :::
-
 ```{=html}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2971.971485050238!2d12.569826776055516!3d41.85044056714546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132589cd6016358d%3A0x86fd8a2015653dac!2sVia%20Tuscolana%2C%201548%2C%2000173%20Roma%20RM!5e0!3m2!1sit!2sit!4v1765622606445!5m2!1sit!2sit" width="100%" height="350" style="border:0; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Come arrivare
 
-::: panel-tabset
+::: {.panel-tabset}
+
 ### ✈️ Aereo
 
-**Aeroporto di Roma Fiumicino (FCO)** — \~35 km dalla sede
+**Aeroporto di Roma Fiumicino (FCO)** — ~35 km dalla sede
 
--   **Treno Leonardo Express** → Roma Termini, poi Metro A direzione Anagnina, fermata *Cinecittà* + bus 557
--   **Taxi**: circa 40-50 minuti
+- **Treno Leonardo Express** → Roma Termini, poi Metro A direzione Anagnina, fermata *Cinecittà* + bus 557
+- **Taxi**: circa 40-50 minuti
 
-**Aeroporto di Roma Ciampino (CIA)** — \~10 km dalla sede
+**Aeroporto di Roma Ciampino (CIA)** — ~10 km dalla sede
 
--   **Bus 520**
--   **Taxi**: circa 20 minuti
+- **Bus 520** verso Cinecittà
+- **Taxi**: circa 20 minuti
 
 ### 🚂 Treno
 
@@ -43,33 +43,33 @@ Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
 
 Dalla stazione Termini:
 
--   **Metro Linea A** direzione Anagnina → fermata *Cinecittà*
--   Da Cinecittà: **bus 557** direzione Tuscolana/Romanina
--   Durata: circa 30-40 minuti
+- **Metro Linea A** direzione Anagnina → fermata *Cinecittà*
+- Da Cinecittà: **bus 557** direzione Tuscolana/Romanina
+- Durata: circa 30-40 minuti
 
 **Roma Tiburtina** — stazione alta velocità
 
--   Metro B → Termini, poi Metro A direzione Anagnina
+- Metro B → Termini, poi Metro A direzione Anagnina
 
 ### 🚗 Auto
 
 Da **Nord (A1 Firenze-Roma)**:
 
--   Uscita Roma Est/GRA → Via Tuscolana direzione Roma
+- Uscita Roma Est/GRA → Via Tuscolana direzione Roma
 
 Da **Sud (A1 Napoli-Roma)**:
 
--   Uscita Roma Sud/GRA → Via Tuscolana direzione fuori Roma
+- Uscita Roma Sud/GRA → Via Tuscolana direzione fuori Roma
 
 Da **GRA (Grande Raccordo Anulare)**:
 
--   Uscita 21 Via Tuscolana
+- Uscita 21 Via Tuscolana
 
-### 🅿️ Parchegg️io
--   Parcheggio di scambio *ATAC Cinecittà* limitrofo alla sede
+### 🅿️ Parcheggio
+
+- Parcheggio di scambio *ATAC Cinecittà* limitrofo alla sede (gratuito con biglietto metro)
+- Parcheggi a pagamento nelle vicinanze
+
 :::
 
-
-
-
-------------------------------------------------------------------------
+---

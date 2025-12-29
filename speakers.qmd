@@ -8,9 +8,10 @@ toc: true
 ## 🎤 Keynote Speakers
 
 ::: {.callout-tip appearance="minimal" icon=false}
-*I relatori principali saranno annunciati a breve.*
+*I relatori principali saranno annunciati a breve. Stay tuned!*
 :::
 
+<!--
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
@@ -20,7 +21,7 @@ toc: true
 
 **Istituzione, Italia**
 
-*Keynote: "Titolo TBA"*
+*Keynote: "Titolo della presentazione"*
 
 Breve biografia del relatore. Descrizione delle aree di ricerca e principali contributi al campo.
 
@@ -28,13 +29,13 @@ Breve biografia del relatore. Descrizione delle aree di ricerca e principali con
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-### Dr. Nome Cognome {.unnumbered}
+### Prof. Nome Cognome {.unnumbered}
 
 ![](images/placeholder-speaker.png){width=180 fig-align="left" style="border-radius: 8px;"}
 
 **Istituzione, Italia**
 
-*Keynote: "Titolo TBA"*
+*Keynote: "Titolo della presentazione"*
 
 Breve biografia del relatore. Descrizione delle aree di ricerca e principali contributi al campo.
 
@@ -42,38 +43,70 @@ Breve biografia del relatore. Descrizione delle aree di ricerca e principali con
 :::
 
 :::
+-->
 
 ---
 
 ## 🎙️ Relatori Invitati
 
-*Elenco in fase di definizione.*
+*L'elenco completo dei relatori invitati sarà pubblicato dopo la chiusura della call for abstracts (20 Febbraio 2026).*
 
+<!--
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
 ### Nome Cognome {.unnumbered}
 **Istituzione**  
-*Titolo TBA*
+*Titolo presentazione*
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### Nome Cognome {.unnumbered}
 **Istituzione**  
-*Titolo TBA*
+*Titolo presentazione*
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### Nome Cognome {.unnumbered}
 **Istituzione**  
-*Titolo TBA*
+*Titolo presentazione*
 :::
 
 :::
+-->
+
+---
+
+## 👥 Comitato Scientifico
+
+| Nome | Affiliazione | Email |
+|:-----|:-------------|:------|
+| Giulia Napoli | Polizia Scientifica | [giulia.napoli@poliziadistato.it](mailto:giulia.napoli@poliziadistato.it) |
+| Sabino Napoletano | Polizia Scientifica | [sabino.napoletano@poliziadistato.it](mailto:sabino.napoletano@poliziadistato.it) |
+| Giuliana Bianco | Università della Basilicata | [giuliana.bianco@unibas.it](mailto:giuliana.bianco@unibas.it) |
+| Emanuela Gregori | Istituto Superiore di Sanità | [emanuela.gregori@iss.it](mailto:emanuela.gregori@iss.it) |
+| Manuel Sergi | Sapienza Università di Roma | [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it) |
+| Federica Bianchi | Università di Parma | [federica.bianchi@unipr.it](mailto:federica.bianchi@unipr.it) |
+| Maria Laura Bolognesi | Università di Bologna | [marialaura.bolognesi@unibo.it](mailto:marialaura.bolognesi@unibo.it) |
+| Laura Mercolini | Università di Bologna | [laura.mercolini@unibo.it](mailto:laura.mercolini@unibo.it) |
+
+---
+
+## 🗓️ Comitato Organizzatore
+
+| Nome | Affiliazione | Email |
+|:-----|:-------------|:------|
+| Maria Maglieri | Polizia Scientifica | [maria.maglieri@poliziadistato.it](mailto:maria.maglieri@poliziadistato.it) |
+| Martina Pisano | Polizia Scientifica | [martina1.pisano@poliziadistato.it](mailto:martina1.pisano@poliziadistato.it) |
+| Mauro Di Pasquale | Istituto Superiore di Sanità | [mauro.dipasquale@iss.it](mailto:mauro.dipasquale@iss.it) |
+| Eugenio Alladio | Università di Torino | [eugenio.alladio@unito.it](mailto:eugenio.alladio@unito.it) |
+| Ilenia Bracaglia | Sapienza Università di Roma | [ilenia.bracaglia@uniroma1.it](mailto:ilenia.bracaglia@uniroma1.it) |
 
 ---
 
 ::: {.callout-note appearance="simple" icon=false}
-## 📢 Stay tuned!
-Altri relatori saranno annunciati nelle prossime settimane.
+## 📢 Vuoi presentare?
+Invia il tuo abstract entro il **20 Febbraio 2026**!
+
+[Invia Abstract](program.qmd){.btn .btn-primary}
 :::

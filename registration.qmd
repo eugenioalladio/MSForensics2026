@@ -1,102 +1,106 @@
 ---
-title: "Programma Scientifico"
+title: "Iscrizione"
 title-block-banner: "#1e3a5f"
 title-block-banner-color: "#ffffff"
 toc: true
 ---
 
-## 📋 Panoramica
+## 💶 Quote di Iscrizione
 
-Il workshop si articola in due giornate di presentazioni orali, sessioni poster e momenti di networking.
+| Categoria | Quota |
+|:----------|------:|
+| Senior Socio SCI | €60 |
+| Senior non Socio SCI* | €150 |
+| Junior Socio SCI | €40 |
+| Junior non Socio SCI* | €110 |
+| Junior non Socio SCI (studenti)** | €60 |
 
-::: {.callout-tip}
-## Programma dettagliato
-Il programma completo con gli abstract sarà disponibile a Febbraio 2026.
+::: {.callout-important}
+## La quota include
+Accesso a tutte le sessioni, materiale congressuale, coffee break, pranzi e aperitivo di benvenuto.
+:::
+
+::: {.callout-note appearance="minimal"}
+\* La quota «non socio SCI» comprende l'iscrizione alla SCI per l'anno 2026 ad una delle tre divisioni (Chimica Analitica o Chimica Farmaceutica o Spettrometria di Massa), inclusa l'iscrizione al Gruppo Tematico di Chimica Forense.
+
+\*\* Per gli studenti (triennali o magistrali) non Soci SCI la quota comprende l'iscrizione SCI ad una delle tre divisioni (Chimica Analitica o Chimica Farmaceutica o Spettrometria di Massa) inclusa l'iscrizione al Gruppo Tematico di Chimica Forense.
 :::
 
 ---
 
-## 📅 Programma Provvisorio
+## 📝 Come iscriversi
 
 ::: {.panel-tabset}
 
-### Giorno 1 — 17 Marzo 2026
+### 1. Compila il modulo
 
-| Orario | Evento | Sede |
-|:-------|:-------|:-----|
-| 13:00 - 14:30 | Registrazione & Welcome Light Lunch | Ingresso e Bouvette |
-| 14:30 | Cerimonia di apertura | Sala Palatucci |
-| 15:00 - 18:30 | Sessioni | Sala Palatucci |
-| 18:30 | Aperitivo di benvenuto | Bouvette |
-
-### Giorno 2 — 18 Marzo 2026
-
-| Orario | Evento | Sede |
-|:-------|:-------|:-----|
-| 09:00 - 11:00 | Sessioni | Sala Palatucci |
-| 11:00 - 11:30 | Coffee Break | Bouvette |
-| 12:00 - 13:30 | Sessioni | Sala Palatucci |
-| 13:30 - 14:00 | Cerimonia di chiusura | Sala Palatucci |
-
-:::
-
----
-
-## 🔬 Sessioni Tematiche
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-### Spettrometria di Massa
-- Tecniche avanzate MS/MS
-- High-resolution MS
-- Imaging MS
-
-### Sostanze d'Abuso & NPS
-- Metaboliti e precursori
-- Nuove Sostanze Psicoattive
-- Screening e conferma
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### Esplosivi, GSR, analisi merceologiche
-- Residui dello sparo
-- Sostanze infiammabili
-- Esplosivi e precursori
-- Inchiostri, vernici, fibre, vetri
-
-### AI & Chemiometria
-- Machine Learning e analisi multivariata di dati forensi
-:::
-
-:::
-
----
-
-## 📝 Invio Abstract
-
-Gli abstract dovranno essere inviati tramite il [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeiZtxUxUJ89U77SRXdY7TNWPJTO0LK7chluWqkD9u_W6sHIw/viewform?usp=dialog).
-
-### Requisiti
-
-| | |
-|:--|:--|
-| **Lunghezza** | Massimo 300 parole |
-| **Contenuto** | Titolo, autori, affiliazioni, testo, keywords (3-5) |
-| **Tipologia** | Indicare preferenza: comunicazione orale / poster |
-| **Lingua** | Inglese |
+Clicca il pulsante per accedere al modulo di iscrizione:
 
 ::: {.text-center}
-[📄 Scarica il template dell'abstract](MS_Forensics_2026_Abstract_Template.docx){.btn .btn-primary .btn-lg download="MS_Forensics_2026_Abstract_Template.docx"}
+[Modulo di Iscrizione](https://docs.google.com/forms/d/e/1FAIpQLSeiZtxUxUJ89U77SRXdY7TNWPJTO0LK7chluWqkD9u_W6sHIw/viewform?usp=dialog){.btn .btn-primary .btn-lg}
 :::
 
-### Scadenze
+### 2. Pagamento
+
+Dopo aver inviato il modulo, riceverai un'email con le istruzioni per il pagamento.
+
+**Metodi di pagamento accettati:**
+
+- Bonifico bancario
+
+**Coordinate bancarie:**
+```
+Banca: [Nome Banca]
+Intestatario: [Nome]
+IBAN: [Numero IBAN]
+BIC/SWIFT: [Codice]
+Causale: MSFOR2026 - [Cognome]
+```
+
+### 3. Conferma
+
+Una volta ricevuto il pagamento, riceverai un'email di conferma con il tuo numero di registrazione.
+
+:::
+
+---
+
+## 📅 Scadenze
 
 | Evento | Data |
 |:-------|-----:|
-| Apertura invio abstract | 7 Gennaio 2026 |
+| Apertura iscrizioni | 7 Gennaio 2026 |
 | Deadline invio abstract | 20 Febbraio 2026 |
 | Notifica accettazione | 2 Marzo 2026 |
+| Workshop | 17-18 Marzo 2026 |
 
 ---
 
+## 🎓 Iscrizione Studenti
+
+Per usufruire della tariffa studenti, è necessario caricare nel modulo di iscrizione:
+
+- Certificato di iscrizione all'università, oppure
+- Copia del libretto/badge universitario
+
+---
+
+## ❌ Politica di Cancellazione
+
+| Periodo | Rimborso |
+|:--------|:---------|
+| Fino al 15 Febbraio 2026 | Rimborso completo (meno €30 spese amministrative) |
+| 16 Febbraio - 1 Marzo 2026 | Rimborso 50% |
+| Dopo il 1 Marzo 2026 | Nessun rimborso |
+
+*È possibile trasferire l'iscrizione a un collega senza costi aggiuntivi.*
+
+---
+
+## ❓ Domande?
+
+Per informazioni sulle iscrizioni:
+
+::: {.text-center}
+📧 [info.msforensics2026@gmail.com](mailto:info.msforensics2026@gmail.com)
+:::
