@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - "*.docx"
+    - CNAME
 
 website:
   title: "MS Forensics 2026"
