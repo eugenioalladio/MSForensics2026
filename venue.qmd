@@ -10,7 +10,7 @@ toc: true
 Il workshop si terrà presso:
 
 ::: {.callout-note appearance="minimal" icon=false}
-**Sala Palatucci** — Polo Tuscolano  
+**Sala Palatucci** - Polo Tuscolano  
 Via Tuscolana 1548, 00173 Roma  
 *Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*  
 Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
@@ -27,19 +27,19 @@ Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
 
 ### ✈️ Aereo
 
-**Aeroporto di Roma Fiumicino (FCO)** — ~35 km dalla sede
+**Aeroporto di Roma Fiumicino (FCO)** - ~35 km dalla sede
 
 - **Treno Leonardo Express** → Roma Termini, poi Metro A direzione Anagnina, fermata *Cinecittà* + bus 557
 - **Taxi**: circa 40-50 minuti
 
-**Aeroporto di Roma Ciampino (CIA)** — ~10 km dalla sede
+**Aeroporto di Roma Ciampino (CIA)** - ~10 km dalla sede
 
 - **Bus 520** verso Cinecittà
 - **Taxi**: circa 20 minuti
 
 ### 🚂 Treno
 
-**Roma Termini** — principale stazione ferroviaria
+**Roma Termini** - principale stazione ferroviaria
 
 Dalla stazione Termini:
 
@@ -47,7 +47,7 @@ Dalla stazione Termini:
 - Da Cinecittà: **bus 557** direzione Tuscolana/Romanina
 - Durata: circa 30-40 minuti
 
-**Roma Tiburtina** — stazione alta velocità
+**Roma Tiburtina** - stazione alta velocità
 
 - Metro B → Termini, poi Metro A direzione Anagnina
 

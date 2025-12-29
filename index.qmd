@@ -85,7 +85,7 @@ Strumenti di Intelligenza Artificiale (AI) e approcci chemiometrici per l’anal
 ## 📍 Sede
 
 ::: {.callout-note appearance="minimal" icon=false}
-**Sala Palatucci** — Polo Tuscolano  
+**Sala Palatucci** - Polo Tuscolano  
 Via Tuscolana 1548, Roma  
 *Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*  
 Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
