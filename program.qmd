@@ -24,29 +24,19 @@ Il programma completo con gli abstract sarà disponibile a Febbraio 2026.
 
 | Orario | Evento | Sede |
 |:-------|:-------|:-----|
-| 08:30 - 09:00 | Registrazione & Welcome Coffee | Ingresso |
-| 09:00 - 09:30 | Cerimonia di apertura | Sala Palatucci |
-| 09:30 - 10:30 | **Keynote 1**: *Titolo TBA* | Sala Palatucci |
-| 10:30 - 11:00 | Coffee Break | Foyer |
-| 11:00 - 12:30 | Sessione orale 1 | Sala Palatucci |
-| 12:30 - 14:00 | Pranzo | *TBA* |
-| 14:00 - 15:30 | Sessione orale 2 | Sala Palatucci |
-| 15:30 - 16:00 | Coffee Break | Foyer |
-| 16:00 - 17:30 | Sessione Poster | Foyer |
-| 20:00 | Cena sociale | *TBA* |
+| 13:00 - 14:30 | Registrazione & Welcome Light Lunch | Ingresso e Bouvette |
+| 14:30 | Cerimonia di apertura | Sala Palatucci |
+| 15:00 - 18:30 | Sessioni | Sala Palatucci |
+| 18:30 | Aperitivo di benvenuto | Bouvette |
 
 ### Giorno 2 — 18 Marzo 2026
 
 | Orario | Evento | Sede |
 |:-------|:-------|:-----|
-| 09:00 - 10:00 | **Keynote 2**: *Titolo TBA* | Sala Palatucci |
-| 10:00 - 10:30 | Coffee Break | Foyer |
-| 10:30 - 12:00 | Sessione orale 3 | Sala Palatucci |
-| 12:00 - 13:30 | Pranzo | *TBA* |
-| 13:30 - 15:00 | Sessione orale 4 | Sala Palatucci |
-| 15:00 - 15:30 | Coffee Break | Foyer |
-| 15:30 - 16:30 | **Keynote 3**: *Titolo TBA* | Sala Palatucci |
-| 16:30 - 17:00 | Cerimonia di chiusura | Sala Palatucci |
+| 09:00 - 11:00 | Sessioni | Sala Palatucci |
+| 11:00 - 11:30 | Coffee Break | Bouvette |
+| 12:00 - 13:30 | Sessioni | Sala Palatucci |
+| 13:30 - 14:00 | Cerimonia di chiusura | Sala Palatucci |
 
 :::
 
@@ -55,7 +45,6 @@ Il programma completo con gli abstract sarà disponibile a Febbraio 2026.
 ## 🔬 Sessioni Tematiche
 
 ::: {.grid}
-
 
 ::: {.g-col-12 .g-col-md-6}
 ### Spettrometria di Massa
@@ -67,12 +56,9 @@ Il programma completo con gli abstract sarà disponibile a Febbraio 2026.
 - Metaboliti e precursori
 - Nuove Sostanze Psicoattive
 - Screening e conferma
-
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-
-
 ### Esplosivi, GSR, analisi merceologiche
 - Residui dello sparo
 - Sostanze infiammabili
@@ -81,10 +67,7 @@ Il programma completo con gli abstract sarà disponibile a Febbraio 2026.
 
 ### AI & Chemiometria
 - Machine Learning e analisi multivariata di dati forensi
-
 :::
-
-
 
 :::
 
@@ -111,10 +94,8 @@ Gli abstract dovranno essere inviati tramite il [modulo online](https://docs.goo
 
 | Evento | Data |
 |:-------|-----:|
-| Apertura invio abstract | *Da definire* |
-| Deadline invio abstract | *Da definire* |
-| Notifica accettazione | *Da definire* |
-
-
+| Apertura invio abstract | 7 Gennaio 2026 |
+| Deadline invio abstract | 20 Febbraio 2026 |
+| Notifica accettazione | 2 Marzo 2026 |
 
 ---
