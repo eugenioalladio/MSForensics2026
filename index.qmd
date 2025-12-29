@@ -8,19 +8,18 @@ toc: false
 
 ::: {.save-the-date}
 ## 📅 Save the Date
-
 **17-18 Marzo 2026** - Roma, Italia  
 **Sala Palatucci** - Polo Tuscolano  
 Via Tuscolana 1548, Roma  
 *Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*  
-Ministero dell'Interno - Dipartimento di Pubblica Sicurezza
+Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
 :::
 
 ## Benvenuti
 
 **MS Forensics 2026** è un workshop organizzato dalla [Società Chimica Italiana](https://www.soc.chim.it/) ([Divisioni di Spettrometria di Massa](https://www.spettrometriadimassa.it/), [Chimica Analitica](https://www.soc.chim.it/it/divisioni/analitica/home) e [Chimica Farmaceutica](https://www.soc.chim.it/it/divisioni/farmaceutica/home)) in collaborazione con il [Servizio Polizia Scientifica della Polizia di Stato](https://www.poliziadistato.it/articolo/2469667ac382cb785865005675).
 
-Il workshop si articolerà in due giornate con l'intento di coinvolgere tutti gli attori istituzionali operanti nei diversi settori della chimica forense e nel mondo della ricerca, creando nuove sinergie di intenti e rafforzando le connessioni tra le diverse realtà che già collaborano.
+Il workshop si articolerà in due giornate con l’intento di coinvolgere tutti gli attori istituzionali operanti nei diversi settori della chimica forense e nel mondo della ricerca, creando nuove sinergie di intenti e rafforzando le connessioni tra le diverse realtà che già collaborano.
 
 ---
 
@@ -31,15 +30,15 @@ Il workshop si articolerà in due giornate con l'intento di coinvolgere tutti gl
 ::: {.g-col-12 .g-col-md-6}
 **Enti istituzionali**
 
-- Servizio Polizia Scientifica
-- Ra.C.I.S. dell'Arma dei Carabinieri
-- Corpo Nazionale dei Vigili del Fuoco
-- Istituto Superiore di Sanità
+ - Servizio Polizia Scientifica della Polizia di Stato
+ - Ra.C.I.S. dell’Arma dei Carabinieri
+ - Corpo Nazionale dei Vigili del Fuoco
+ - Istituto Superiore di Sanità
 
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**Mondo accademico**
+**Mondo accademico, Laboratori di Controllo ed esperti del settore**
 
 - Università e centri di ricerca
 - Laboratori di analisi forense
@@ -58,16 +57,16 @@ Il workshop si articolerà in due giornate con l'intento di coinvolgere tutti gl
 Tecniche avanzate di spettrometria di massa applicate alle analisi forensi.
 
 ### Sostanze d'abuso
-Monitoraggio di sostanze d'abuso e loro metaboliti, incluse le NPS (Nuove Sostanze Psicoattive) e i loro precursori.
+Monitoraggio di sostanze d’abuso e loro metaboliti, incluse le NPS e i loro precursori.
 
 ### Esplosivi & GSR
-Determinazione di esplosivi, sostanze infiammabili e residui dello sparo (GSR).
+Determinazione di esplosivi, sostanze infiammabili e residui dello sparo.
 
 ### Analisi merceologiche
-Metodologie analitiche per caratterizzazioni e comparazioni merceologiche: inchiostri, vernici, fibre e sostanze incognite.
+Metodologie analitiche per caratterizzazioni e comparazioni merceologiche (inchiostri, vernici, fibre e sostanze incognite).
 
 ### AI & chemiometria
-Strumenti di Intelligenza Artificiale e approcci chemiometrici per l'analisi di dati, inclusi algoritmi di Machine Learning e Deep Learning.
+Strumenti di Intelligenza Artificiale (AI) e approcci chemiometrici per l’analisi di dati, inclusi algoritmi di Machine Learning e Deep Learning
 
 :::
 
@@ -77,10 +76,9 @@ Strumenti di Intelligenza Artificiale e approcci chemiometrici per l'analisi di 
 
 | Evento | Data |
 |:-------|-----:|
-| Apertura iscrizioni | *Da definire* |
-| Deadline invio abstract | *Da definire* |
-| Notifica accettazione | *Da definire* |
-| **Workshop** | **17-18 Marzo 2026** |
+| Apertura iscrizioni | *7 gennaio 2026* |
+| Deeadline invio abstract | *20 febbraio 2026* |
+| Notifica accettazione del contributo | *2 marzo 2026* |
 
 ---
 
@@ -90,14 +88,45 @@ Strumenti di Intelligenza Artificiale e approcci chemiometrici per l'analisi di 
 **Sala Palatucci** — Polo Tuscolano  
 Via Tuscolana 1548, Roma  
 *Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*  
-Ministero dell'Interno - Dipartimento di Pubblica Sicurezza
+Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
 
 [Maggiori informazioni sulla sede →](venue.qmd){.btn .btn-primary}
 :::
 
 ---
 
-## 🤝 Organizzatori
+## 👥 Comitati
+
+::: {.panel-tabset}
+
+### Comitato Scientifico
+
+| Nome | Email |
+|:-----|:------|
+| Giulia Napoli | [giulia.napoli@poliziadistato.it](mailto:giulia.napoli@poliziadistato.it) |
+| Sabino Napoletano | [sabino.napoletano@poliziadistato.it](mailto:sabino.napoletano@poliziadistato.it) |
+| Giuliana Bianco | [giuliana.bianco@unibas.it](mailto:giuliana.bianco@unibas.it) |
+| Emanuela Gregori | [emanuela.gregori@iss.it](mailto:emanuela.gregori@iss.it) |
+| Manuel Sergi | [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it) |
+| Federica Bianchi | [federica.bianchi@unipr.it](mailto:federica.bianchi@unipr.it) |
+| Maria Laura Bolognesi | [marialaura.bolognesi@unibo.it](mailto:marialaura.bolognesi@unibo.it) |
+| Laura Mercolini | [laura.mercolini@unibo.it](mailto:laura.mercolini@unibo.it) |
+
+### Comitato Organizzatore
+
+| Nome | Email |
+|:-----|:------|
+| Maria Maglieri | [maria.maglieri@poliziadistato.it](mailto:maria.maglieri@poliziadistato.it) |
+| Martina Pisano | [martina1.pisano@poliziadistato.it](mailto:martina1.pisano@poliziadistato.it) |
+| Mauro Di Pasquale | [mauro.dipasquale@iss.it](mailto:mauro.dipasquale@iss.it) |
+| Eugenio Alladio | [eugenio.alladio@unito.it](mailto:eugenio.alladio@unito.it) |
+| Ilenia Bracaglia | [ilenia.bracaglia@uniroma1.it](mailto:ilenia.bracaglia@uniroma1.it) |
+
+:::
+
+---
+
+## 🏛️ Enti Organizzatori
 
 ::: {.grid}
 

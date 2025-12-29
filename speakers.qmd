@@ -73,35 +73,6 @@ Breve biografia del relatore. Descrizione delle aree di ricerca e principali con
 
 ---
 
-## 👥 Comitato Scientifico
-
-::: {.panel-tabset}
-
-### Comitato Organizzatore
-
-| Nome | Affiliazione |
-|:-----|:-------------|
-| [Prof.  Manuel Sergi](https://research.uniroma1.it/researcher/1b868682d7ceb40f06d71766c1efcb0145a33e2ff90bea20ac96cf44)  | Sapienza Università di Roma |
-| [Prof.ssa  Federica Bianchi](https://personale.unipr.it/en/ugovdocenti/person/17739) | Università di Parma |
-| [Prof.  Alessandro Giuffrida](https://archivio.unime.it/it/persona/alessandro-giuffrida) | Università di Messina |
-| [Prof.  Alberto Salomone](https://ccfs.campusnet.unito.it/do/docenti.pl/Show?_id=asalomon#tab-profilo) | Università di Torino |
-| Dr. Nome Cognome | Servizio Polizia Scientifica |
-| [Prof.  Eugenio Alladio](https://ccfs.campusnet.unito.it/do/docenti.pl/Show?_id=ealladio#tab-profilo) | Università di Torino |
-
-
-### Comitato Scientifico
-
-| Nome | Affiliazione |
-|:-----|:-------------|
-| [Prof.  Manuel Sergi](https://research.uniroma1.it/researcher/1b868682d7ceb40f06d71766c1efcb0145a33e2ff90bea20ac96cf44)  | Sapienza Università di Roma |
-| [Prof.ssa  Federica Bianchi](https://personale.unipr.it/en/ugovdocenti/person/17739) | Università di Parma |
-| [Prof.  Alessandro Giuffrida](https://archivio.unime.it/it/persona/alessandro-giuffrida) | Università di Messina |
-| [Prof.  Alberto Salomone](https://ccfs.campusnet.unito.it/do/docenti.pl/Show?_id=asalomon#tab-profilo) | Università di Torino |
-
-:::
-
----
-
 ::: {.callout-note appearance="simple" icon=false}
 ## 📢 Stay tuned!
 Altri relatori saranno annunciati nelle prossime settimane.

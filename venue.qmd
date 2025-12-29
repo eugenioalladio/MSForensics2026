@@ -13,7 +13,7 @@ Il workshop si terrà presso:
 **Sala Palatucci** — Polo Tuscolano\
 Via Tuscolana 1548, 00173 Roma\
 *Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*\
-Ministero dell'Interno - Dipartimento di Pubblica Sicurezza
+Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
 :::
 
 ```{=html}
@@ -64,6 +64,12 @@ Da **Sud (A1 Napoli-Roma)**:
 Da **GRA (Grande Raccordo Anulare)**:
 
 -   Uscita 21 Via Tuscolana
+
+### 🅿️ Parchegg️io
+-   Parcheggio di scambio *ATAC Cinecittà* limitrofo alla sede
 :::
+
+
+
 
 ------------------------------------------------------------------------

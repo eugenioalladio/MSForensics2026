@@ -1,96 +1,102 @@
 ---
-title: "Iscrizione"
+title: "Programma Scientifico"
 title-block-banner: "#1e3a5f"
 title-block-banner-color: "#ffffff"
 toc: true
 ---
 
-## 💶 Quote di Iscrizione
+## 📋 Panoramica
 
-::: {.callout-note appearance="minimal" icon=false}
-*Le quote di iscrizione saranno comunicate a breve.*
-:::
+Il workshop si articola in due giornate di presentazioni orali, sessioni poster e momenti di networking.
 
-| Categoria | Early Bird | Tariffa Regolare |
-|:----------|:----------:|:----------------:|
-| Partecipante | €XXX | €XXX |
-| Studente (con certificato) | €XXX | €XXX |
-| Accompagnatore | €XXX | €XXX |
-
-::: {.callout-important}
-## La quota include
-Accesso a tutte le sessioni, materiale congressuale, coffee break, pranzi e cena sociale.
+::: {.callout-tip}
+## Programma dettagliato
+Il programma completo con gli abstract sarà disponibile a Febbraio 2026.
 :::
 
 ---
 
-## 📝 Come iscriversi
+## 📅 Programma Provvisorio
 
 ::: {.panel-tabset}
 
-### 1. Pagamento
+### Giorno 1 — 17 Marzo 2026
 
-**Metodi di pagamento accettati:**
+| Orario | Evento | Sede |
+|:-------|:-------|:-----|
+| 13:00 - 14:30 | Registrazione & Welcome Light Lunch | Ingresso e Bouvette |
+| 14:30 | Cerimonia di apertura | Sala Palatucci |
+| 15:00 - 18:30 | Sessioni | Sala Palatucci |
+| 18:30 | Aperitivo di benvenuto | Bouvette |
 
-- Bonifico bancario
-- Carta di credito (via PayPal)
+### Giorno 2 — 18 Marzo 2026
 
-**Coordinate bancarie:**
-```
-Banca: [Nome Banca]
-Intestatario: [Nome]
-IBAN: [Numero IBAN]
-BIC/SWIFT: [Codice]
-Causale: MSFOR2026 - [Cognome]
-```
+| Orario | Evento | Sede |
+|:-------|:-------|:-----|
+| 09:00 - 11:00 | Sessioni | Sala Palatucci |
+| 11:00 - 11:30 | Coffee Break | Bouvette |
+| 12:00 - 13:30 | Sessioni | Sala Palatucci |
+| 13:30 - 14:00 | Cerimonia di chiusura | Sala Palatucci |
 
-### 2. Compila il modulo
-
-Clicca il pulsante per accedere al modulo di iscrizione:
-
-::: {.text-center}
-[Modulo di Iscrizione](https://docs.google.com/forms/d/e/1FAIpQLSeiZtxUxUJ89U77SRXdY7TNWPJTO0LK7chluWqkD9u_W6sHIw/viewform?usp=dialog){.btn .btn-primary .btn-lg}
-:::
 :::
 
 ---
 
-## 📅 Scadenze
+## 🔬 Sessioni Tematiche
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Spettrometria di Massa
+- Tecniche avanzate MS/MS
+- High-resolution MS
+- Imaging MS
+
+### Sostanze d'Abuso & NPS
+- Metaboliti e precursori
+- Nuove Sostanze Psicoattive
+- Screening e conferma
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Esplosivi, GSR, analisi merceologiche
+- Residui dello sparo
+- Sostanze infiammabili
+- Esplosivi e precursori
+- Inchiostri, vernici, fibre, vetri
+
+### AI & Chemiometria
+- Machine Learning e analisi multivariata di dati forensi
+:::
+
+:::
+
+---
+
+## 📝 Invio Abstract
+
+Gli abstract dovranno essere inviati tramite il [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeiZtxUxUJ89U77SRXdY7TNWPJTO0LK7chluWqkD9u_W6sHIw/viewform?usp=dialog).
+
+### Requisiti
+
+| | |
+|:--|:--|
+| **Lunghezza** | Massimo 300 parole |
+| **Contenuto** | Titolo, autori, affiliazioni, testo, keywords (3-5) |
+| **Tipologia** | Indicare preferenza: comunicazione orale / poster |
+| **Lingua** | Inglese |
+
+::: {.text-center}
+[📄 Scarica il template dell'abstract](MS_Forensics_2026_Abstract_Template.docx){.btn .btn-primary .btn-lg download="MS_Forensics_2026_Abstract_Template.docx"}
+:::
+
+### Scadenze
 
 | Evento | Data |
 |:-------|-----:|
-| Apertura iscrizioni | *Da definire* |
-| Scadenza Early Bird | *Da definire* |
-| Chiusura iscrizioni | *Da definire* |
-| Workshop | 17-18 Marzo 2026 |
+| Apertura invio abstract | 7 Gennaio 2026 |
+| Deadline invio abstract | 20 Febbraio 2026 |
+| Notifica accettazione | 2 Marzo 2026 |
 
 ---
 
-## 🎓 Iscrizione Studenti
-
-Per usufruire della tariffa studenti, è necessario caricare nel modulo di iscrizione:
-
-- Certificato di iscrizione all'università, oppure
-- Copia del libretto/badge universitario
-
----
-
-## ❌ Politica di Cancellazione
-
-| Periodo | Rimborso |
-|:--------|:---------|
-| Fino al 15 Febbraio 2026 | Rimborso completo (meno spese amministrative) |
-| 16 Febbraio - 1 Marzo 2026 | Rimborso 50% |
-| Dopo il 1 Marzo 2026 | Nessun rimborso |
-
-*È possibile trasferire l'iscrizione a un collega senza costi aggiuntivi.*
-
----
-
-## ❓ Domande?
-
-Per informazioni sulle iscrizioni:
-
-::: {.text-center}
-📧 [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
-:::
