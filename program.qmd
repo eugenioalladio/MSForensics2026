@@ -88,7 +88,7 @@ Gli abstract dovranno essere inviati tramite il [modulo online](https://docs.goo
 | **Lingua comunicazione oral/poster** | Italiano |
 
 ::: {.text-center}
-[📄 Scarica il template dell'abstract](MS_Forensics_2026_abstract_template.docx){.btn .btn-primary .btn-lg download="MS_Forensics_2026_abstract_template.docx"}
+[📄 Scarica il template dell'abstract](MS_Forensics_2026_Abstract_Template.docx){.btn .btn-primary .btn-lg download="MS_Forensics_2026_Abstract_Template.docx"}
 :::
 
 ### Scadenze
